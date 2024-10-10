@@ -1,0 +1,1 @@
+[ERROR] 2024.10.11 00:19:30 TestLogger - This is a formatted error message with string and 123

@@ -1,0 +1,14 @@
+[DEBUG] 2024.10.11 00:19:30 TestLogger - This is a debug message.
+[INFO] 2024.10.11 00:19:30 TestLogger - This is an info message.
+[WARNING] 2024.10.11 00:19:30 TestLogger - This is a warning message.
+[DEBUG] 2024.10.11 00:19:30 TestLogger - This is a debug message.
+[INFO] 2024.10.11 00:19:30 TestLogger - This is an info message.
+[WARNING] 2024.10.11 00:19:30 TestLogger - This is a warning message.
+[ERROR] 2024.10.11 00:19:30 TestLogger - This is an error message.
+[DEBUG] 2024.10.11 00:19:30 TestLogger - This is a formatted debug message with string and 123
+[INFO] 2024.10.11 00:19:30 TestLogger - This is a formatted info message with string and 123
+[ERROR] 2024.10.11 00:19:30 TestLogger - This is an error message.
+[DEBUG] 2024.10.11 00:19:30 TestLogger - This is a formatted debug message with string and 123
+[INFO] 2024.10.11 00:19:30 TestLogger - This is a formatted info message with string and 123
+[WARNING] 2024.10.11 00:19:30 TestLogger - This is a formatted warning message with string and 123
+[ERROR] 2024.10.11 00:19:30 TestLogger - This is a formatted error message with string and 123
